@@ -1,0 +1,7 @@
+target/
+.idea
+javafxtests/
+target/
+out/
+.iml
+*.class

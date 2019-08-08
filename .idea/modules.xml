@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/服务器前台/target/tomcat/work/Tomcat/localhost/localhost.iml" filepath="$PROJECT_DIR$/服务器前台/target/tomcat/work/Tomcat/localhost/localhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/服务器前台/src/test/test.iml" filepath="$PROJECT_DIR$/服务器前台/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/服务器后台/staticmedia/theme/assets/custom/plugins/zeroclipboard-master/src/zeroclipboard-master.iml" filepath="$PROJECT_DIR$/服务器后台/staticmedia/theme/assets/custom/plugins/zeroclipboard-master/src/zeroclipboard-master.iml" />
+    </modules>
+  </component>
+</project>
